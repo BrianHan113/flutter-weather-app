@@ -1,8 +1,7 @@
 # weather_app
 
-![Weather](https://imgur.com/a/fIIrQpu.jpg)
-![UV](https://imgur.com/a/QEtkepq.jpg)
-
+![Imgur](https://i.imgur.com/a/fIIrQpu.jpg)
+![Imgur](https://i.imgur.com/a/QEtkepq.jpg)
 
 Rename .env_PLACEHOLDER to .env and input OpenWeather and NIWA API keys
 
