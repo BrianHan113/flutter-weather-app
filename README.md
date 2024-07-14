@@ -7,3 +7,5 @@ In Console:
 flutter pub get
 
 flutter run
+
+UI Designed for use on SM G991B
